@@ -1,0 +1,14 @@
+E:\Temp\core\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.deps.json
+E:\Temp\core\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.runtimeconfig.json
+E:\Temp\core\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.runtimeconfig.dev.json
+E:\Temp\core\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.dll
+E:\Temp\core\SignalRWebPack\SignalRWebPack\bin\Debug\netcoreapp2.1\SignalRWebPack.pdb
+E:\Temp\core\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.csprojAssemblyReference.cache
+E:\Temp\core\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.csproj.CoreCompileInputs.cache
+E:\Temp\core\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorAssemblyInfo.cache
+E:\Temp\core\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorAssemblyInfo.cs
+E:\Temp\core\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.AssemblyInfoInputs.cache
+E:\Temp\core\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.AssemblyInfo.cs
+E:\Temp\core\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.RazorTargetAssemblyInfo.cache
+E:\Temp\core\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.dll
+E:\Temp\core\SignalRWebPack\SignalRWebPack\obj\Debug\netcoreapp2.1\SignalRWebPack.pdb
